@@ -1,0 +1,1 @@
+This Project is creating for Showcasing my Frontend Skills. I also appllied some of bacis programming in this project. I used to create this project with good knowledge of HTML, CSS, and some work of UX/UI design. 
